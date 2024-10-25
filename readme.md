@@ -4,3 +4,4 @@ This is awesome project
 lsdf;ksdf
 ## Author
 [Author](author.md)
+## Conflict
